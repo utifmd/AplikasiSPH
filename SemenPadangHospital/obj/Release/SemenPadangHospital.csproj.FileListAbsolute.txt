@@ -1,0 +1,17 @@
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\bin\Release\SemenPadangHospital.exe.config
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\bin\Release\SemenPadangHospital.exe
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\bin\Release\SemenPadangHospital.pdb
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\bin\Release\MySql.Data.dll
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.csprojResolveAssemblyReference.cache
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.csproj.ResolveComReference.cache
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.Cuti.resources
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.Login_cuti.resources
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.Login_tlp.resources
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.Properties.Resources.resources
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.Server.resources
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.Telefon.resources
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.Telefon_admin.resources
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.Welcome.resources
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.csproj.GenerateResource.Cache
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.exe
+C:\Users\utif\Documents\Visual Studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Release\SemenPadangHospital.pdb

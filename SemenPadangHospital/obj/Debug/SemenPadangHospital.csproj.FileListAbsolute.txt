@@ -1,0 +1,16 @@
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\bin\Debug\SemenPadangHospital.exe.config
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\bin\Debug\SemenPadangHospital.exe
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\bin\Debug\SemenPadangHospital.pdb
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.csproj.ResolveComReference.cache
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.Cuti.resources
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.Login_cuti.resources
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.Login_tlp.resources
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.Properties.Resources.resources
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.Server.resources
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.Telefon.resources
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.Telefon_admin.resources
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.Welcome.resources
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.csproj.GenerateResource.Cache
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.exe
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.pdb
+C:\Users\utif\documents\visual studio 2015\Projects\SemenPadangHospital\SemenPadangHospital\obj\Debug\SemenPadangHospital.csprojResolveAssemblyReference.cache
